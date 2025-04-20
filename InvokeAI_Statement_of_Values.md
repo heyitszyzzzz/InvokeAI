@@ -1,4 +1,4 @@
-<img src="docs/assets/invoke_ai_banner.png" align="center">
+
 
 Invoke-AI is a community of software developers, researchers, and user
 interface experts who have come together on a voluntary basis to build
@@ -78,7 +78,6 @@ different background and a unique set of skills. We strive to help
 each other grow and gain new skills, and we apportion expectations in
 a way that balances the members' time, skillset, and interest
 area. Disputes are resolved by open and honest communication.
-
-## Signature
-
+https://vscode.dev/github.com/heyitszyzzzz/InvokeAI/blob/main/InvokeAI_Statement_of_Values.md#L81
+jmp
 This document has been collectively crafted and approved by the current InvokeAI team members, as of 28 Nov 2022: **lstein** (Lincoln Stein), **blessedcoolant**, **hipsterusername** (Kent Keirsey), **Kyle0654** (Kyle Schouviller), **damian0815**, **mauwii** (Matthias Wild), **Netsvetaev** (Artur Netsvetaev), **psychedelicious**, **tildebyte**, **keturn**, and **ebr** (Eugene Brodsky). Although individuals within the group may hold differing views on particular details and/or their implications, we are all in agreement about its fundamental statements, as well as their significance and importance to this project moving forward.
